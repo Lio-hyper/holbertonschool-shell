@@ -1,0 +1,16 @@
+total 48
+drwxr-xr-x 1 yoko8980 yoko8980 338 Feb 14 14:17 .
+drwxr-xr-x 1 yoko8980 yoko8980 114 Feb 14 09:22 ..
+-rwxr--r-- 1 yoko8980 yoko8980  35 Feb 14 09:56 0-hello_world
+-rwxr--r-- 1 yoko8980 yoko8980  28 Feb 14 10:25 1-confused_smiley
+-rwxr--r-- 1 yoko8980 yoko8980  28 Feb 14 10:32 2-hellofile
+-rwxr--r-- 1 yoko8980 yoko8980  39 Feb 14 10:41 3-twofiles
+-rwxr--r-- 1 yoko8980 yoko8980  29 Feb 14 11:04 4-lastlines
+-rwxr--r-- 1 yoko8980 yoko8980  29 Feb 14 11:10 5-firstlines
+-rwxr--r-- 1 yoko8980 yoko8980  36 Feb 14 11:47 6-third_line
+-rwxr--r-- 1 yoko8980 yoko8980  79 Feb 14 12:20 7-file
+-rwxr--r-- 1 yoko8980 yoko8980  36 Feb 14 14:17 8-cwd_state
+-rw-r--r-- 1 yoko8980 yoko8980  12 Feb 14 12:20 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 yoko8980 yoko8980 728 Feb 14 11:33 iacta
+-rw-r--r-- 1 yoko8980 yoko8980   0 Feb 14 14:17 ls_cwd_content
+-rw-r--r-- 1 yoko8980 yoko8980  10 Feb 14 09:23 README.md
