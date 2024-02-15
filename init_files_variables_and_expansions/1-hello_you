@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv Lio-hyper
+printenv echo '"'"''"'"''"'"'hello MyUser'"'"''"'"''"'"'
