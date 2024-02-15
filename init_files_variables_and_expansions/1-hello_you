@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello yoko8980'
+export USER='"'"''"'"''"'"'MyUser'"'"''"'"''"'"' 
